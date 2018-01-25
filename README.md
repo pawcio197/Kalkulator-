@@ -2,5 +2,6 @@
 Po starcie programu wprowadz a i b :) 
 
 twórcy: 
-Jan Wojtkowski
+Jan Wojtkowski 
 Cezary Matusiak
+Adam Lipiński
