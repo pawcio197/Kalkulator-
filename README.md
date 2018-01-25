@@ -1,2 +1,5 @@
 # Kalkulator-
-Kalkulator liczb.
+Po starcie programu wprowadz a i b :) 
+
+twórcy: 
+Jan Wojtkowski
