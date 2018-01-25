@@ -1,6 +1,11 @@
 #include <iostream>
 #include <conio.h>
 #include <ctime>
+#include "dodawanie.h"
+#include "odejmowanie.h"
+#include "mnozenie.h"
+#include "dzielenie.h"
+
 
 using namespace std;
 
