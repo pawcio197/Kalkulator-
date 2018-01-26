@@ -13,8 +13,8 @@ int main()
 {
 string wybor;
 int a,b;
-cout<<"Co chcesz zrobic?"<<endl.
-cout<<"1)Mnozenie"<<endl.
+cout<<"Co chcesz zrobic?"<<endl;
+cout<<"1)Mnozenie"<<endl;
 cout<<"2)Dzielenie"<<endl.
 cout<<"3)Dodawanie"<<endl.
 cout<<"4)Odejmowanie"<<endl.
@@ -32,7 +32,8 @@ else if (wybor ='4'){
 odejmowanie(a,b)
 }
 else{
-cout << "Nie wybrales zadnej opcji"<<endl.
+cout << "Nie wybrales zadnej opcji"<<endl;
 }
 return 0;
 }
+
