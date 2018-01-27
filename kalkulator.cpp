@@ -20,16 +20,17 @@ cout<<"3)Dodawanie"<<endl;
 cout<<"4)Odejmowanie"<<endl;
 cin >>wybor;
 if(wybor = '1'){
-mnozenie(&a,&b);
+cout<<mnozenie(&a,&b);
+
 }
 else if (wybor ='2'){
-dzielenie(&a,&b);
+cout<<dzielenie(&a,&b);
 }
 else if (wybor ='3'){
-dodawanie(&a,&b);
+cout<<dodawanie(&a,&b);
 }
 else if (wybor ='4'){
-odejmowanie(&a,&b);
+cout<<odejmowanie(&a,&b);
 }
 else{
 cout << "Nie wybrales zadnej opcji"<<endl;
