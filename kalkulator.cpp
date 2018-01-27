@@ -20,7 +20,7 @@ cout<<"3)Dodawanie"<<endl;
 cout<<"4)Odejmowanie"<<endl;
 cin >>wybor;
 if(wybor = '1'){
-mnozenie(a,b);
+mnozenie(&a,&b);
 }
 else if (wybor ='2'){
 dzielenie(&a,&b);
