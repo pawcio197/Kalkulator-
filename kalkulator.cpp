@@ -12,7 +12,7 @@ using namespace std;
 int main() 
 {
 char wybor;
-int a,b,c;
+int a,b,c,d;
 cout<<"Co chcesz zrobic?"<<endl;
 cout<<"1)Mnozenie"<<endl;
 cout<<"2)Dzielenie"<<endl;
