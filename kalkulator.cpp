@@ -5,7 +5,7 @@
 #include "odejmowanie.h"
 #include "mnozenie.h"
 #include "dzielenie.h"
-#include <string>
+
 
 using namespace std;
 
