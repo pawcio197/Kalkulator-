@@ -9,27 +9,27 @@
 
 using namespace std;
 
-int main() 
+int main()
 {
-string wybor;
+char wybor;
 int a,b;
 cout<<"Co chcesz zrobic?"<<endl;
 cout<<"1)Mnozenie"<<endl;
-cout<<"2)Dzielenie"<<endl.
-cout<<"3)Dodawanie"<<endl.
-cout<<"4)Odejmowanie"<<endl.
+cout<<"2)Dzielenie"<<endl;
+cout<<"3)Dodawanie"<<endl;
+cout<<"4)Odejmowanie"<<endl;
 cin >>wybor;
 if(wybor = '1'){
-mnozenie(a,b)
+mnozenie(a,b);
 }
 else if (wybor ='2'){
-dzielenie(a,b)
+dzielenie(a,b);
 }
 else if (wybor ='3'){
-dodawanie(a,b)
+dodawanie(a,b);
 }
 else if (wybor ='4'){
-odejmowanie(a,b)
+odejmowanie(a,b);
 }
 else{
 cout << "Nie wybrales zadnej opcji"<<endl;
