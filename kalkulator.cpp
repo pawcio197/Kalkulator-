@@ -37,3 +37,4 @@ cout << "Nie wybrales zadnej opcji"<<endl;
 }
 return 0;
 }
+//kalkulator
